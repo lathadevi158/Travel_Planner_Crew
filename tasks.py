@@ -24,7 +24,9 @@ docs_task = Task(
 
 # Task 4: Design the itinerary
 itinerary_task = Task(
-    description="Based on available budget, documentation requirements, and destination research, create a detailed {num_days}-day itinerary for {destination}.",
-    expected_output="Day-by-day itinerary with activity suggestions, time allocations, and brief travel guidance.",
-    agent=itinerary_designer
+    description="Based on available budget, documentation requirements, and destination research, create a detailed {num_days}-day itinerary for {destination}. Using the context provided, summarise all the information related to budget, destination and required documents. ",
+    expected_output="Day-by-day itinerary with activity suggestions, time allocations, and brief travel guidance. Summarised information of budget estimation, top attractions and documentation requirements with separate headings. "
+    "Include Unicode emojis where appropriate to enhance readability and engagement.",
+    agent=itinerary_designer,
+    context=[budget_task, destination_task, docs_task]
 )
