@@ -1,178 +1,126 @@
-#######SAMPLE RESPONSE FROM AGENTS
-Budget Planner:
-Here’s a detailed breakdown of the estimated total cost for a 5-day trip to Bali for 2 people, including flights, accommodation, food, activities, and extras.
+#SAMPLE FINAL RESPONSE
 
-1. **Flights**: 
-   - Round-trip airfare (Economy class) from a major city in the U.S. to Bali (Denpasar): Approximately $800 per person.
-   - Total for 2 people: $800 x 2 = **$1,600**.
-
-2. **Accommodation**:
-   - Mid-range hotel or villa: Average cost is about $100 per night.
-   - Total for 5 nights: $100 x 5 = **$500**.
-
-3. **Food**:
-   - Average daily food cost (including breakfast, lunch, and dinner) per person: $30.
-   - Total for 2 people for 5 days: $30 x 2 x 5 = **$300**.
-
-4. **Activities**:
-   - Average cost for attractions/activities (like temples, water sports, etc.): Approximately $50 per day per person.
-   - Total for 2 people over 5 days: $50 x 2 x 5 = **$500**.
-
-5. **Extras**:
-   - Transportation (taxis, scooters, etc.): Estimated at $15 per day.
-   - Total for 5 days: $15 x 5 = **$75**.
-   - Souvenirs and shopping: Estimated at **$100**.
-
-### Total Cost Breakdown:
-- Flights: **$1,600**
-- Accommodation: **$500**
-- Food: **$300**
-- Activities: **$500**
-- Extras: **$175** (including transportation and shopping)
-
-### Grand Total:
-- **$1,600 + $500 + $300 + $500 + $175 = $3,075**
-
-Therefore, the estimated total cost for a 5-day trip to Bali for 2 people is **$3,075**. This budget provides a comfortable experience while exploring the beautiful island of Bali.
-
-Destination Researcher:
-Here is a curated list of top attractions, experiences, and cultural highlights in Bali that cater to your interests in beaches, temples, and street food:
-
-1. **Uluwatu Temple**: Perched on a cliff 70 meters above the Indian Ocean, Uluwatu Temple is one of Bali's most iconic sea temples. Visitors can explore the temple grounds, enjoy breathtaking sunset views, and watch the traditional Kecak fire dance performance held in the evenings.
-
-2. **Seminyak Beach**: Known for its upscale beach clubs and vibrant nightlife, Seminyak Beach is perfect for sunbathing, surfing, and enjoying beachside dining. The area is dotted with trendy restaurants and bars, making it a great spot to relax during the day and party at night.
-
-3. **Tanah Lot Temple**: This picturesque sea temple is situated on a rocky outcrop and is one of Bali's most photographed landmarks. Visit during low tide to walk up to the temple and enjoy stunning sunset views. The surrounding area features markets and traditional Balinese shops.
-
-4. **Jimbaran Bay**: Famous for its seafood dining experiences on the beach, Jimbaran Bay offers a romantic setting for dinner. Choose from various beachside restaurants where you can enjoy fresh grilled seafood while listening to the sound of the waves.
-
-5. **Canggu**: This laid-back coastal village is known for its beautiful beaches, surf spots, and vibrant street food scene. Explore local warungs (small restaurants) serving authentic Indonesian cuisine, and don't miss the chance to try traditional dishes like Nasi Goreng (fried rice) and Babi Guling (suckling pig).        
-
-6. **Goa Gajah (Elephant Cave)**: An important archaeological site, Goa Gajah features ancient rock-cut caves and temple ruins. The site is surrounded by lush greenery and offers a glimpse into Bali's rich history and spiritual heritage.
-
-7. **Kuta Beach**: A popular destination for tourists, Kuta Beach is known for its vibrant atmosphere and long stretch of sandy shoreline. It's an ideal spot for surfing, beach activities, and enjoying the lively beach clubs and street food stalls nearby.
-
-8. **Bali Street Food Tours**: Embark on a guided street food tour to discover local culinary delights. Taste traditional dishes such as Satay, Gado-Gado, and Martabak while exploring bustling markets and street vendors. This immersive experience allows you to connect with Balinese culture through its flavors.
-
-9. **Nusa Dua Beach**: For a more tranquil beach experience, Nusa Dua offers pristine sands and clear waters. This area is also home to luxury resorts and is great for snorkeling and sunbathing, making it an idyllic retreat.
-
-10. **Tirta Empul Temple**: This sacred water temple features holy springs where locals and visitors participate in purification rituals. The stunning architecture and lush surroundings make it a serene spot to learn about Balinese spirituality and traditions.
-
-These attractions and experiences will provide a rich cultural experience while allowing you to indulge in beach relaxation and delicious street food throughout your trip to Bali. Enjoy your adventure!
-
-
-Travel Documentation Advisor:
-As an Indian citizen planning to visit Bali, Indonesia, here are the necessary travel documentation requirements you need to ensure a smooth journey:
-
-1. **Visa Requirements**:
-   - **Visa Type**: Indian citizens are eligible for a Visa on Arrival (VoA) for short visits, which allows a stay of up to 30 days and can be extended for an additional 30 days.
-   - **Application Process**: Upon arrival at Ngurah Rai International Airport (Denpasar), you can apply for the VoA. You will need to present the following:      
-     - A valid passport with a minimum validity of 6 months from your date of entry into Indonesia.
-     - A return ticket or onward travel ticket.
-     - Proof of accommodation (such as hotel reservations).
-     - Payment of the visa fee (approximately USD 35, subject to change).
-   - **Important Note**: Ensure you have sufficient funds for your stay, as you may need to show proof of adequate financial means.
-
-2. **Passport Validity**:
-   - Your passport must be valid for at least 6 months from your date of entry into Indonesia. It should also have at least one blank page available for the visa stamp.
-
-3. **Travel Insurance**:
-   - While travel insurance is not mandatory, it is highly recommended. Comprehensive travel insurance should cover medical emergencies, trip cancellations, lost luggage, and other unforeseen events. This will provide you peace of mind during your travels.
-
-4. **Vaccination Mandates**:
-   - As of the latest updates, there are no mandatory vaccinations required for entry into Indonesia, but it is advisable to be vaccinated against common diseases such as Hepatitis A, Typhoid, and Tetanus. Check for any travel advisories or health recommendations from your local health authority before your trip.
-
-5. **Additional Recommendations**:
-   - Carry photocopies of your passport, visa, and important documents.
-   - Stay updated on any changes to entry requirements due to health protocols or travel restrictions.
-
-By ensuring you have the correct visa, a valid passport, and appropriate travel insurance, you will be well-prepared for your trip to Bali. Enjoy your adventure on this beautiful island!
-
-Itinerary Designer:
 ✅ Final Travel Plan:
 
-**5-Day Itinerary for Bali, Indonesia**
+**5-Day Bali Itinerary for Two People** 🌴✈️
 
-**Day 1: Arrival in Bali - Seminyak Beach Exploration**
-- **Morning:**
-  - Arrive at Ngurah Rai International Airport. Complete the Visa on Arrival process (approx. $35).
-  - Transfer to your hotel in Seminyak (30 min drive).
-  - Check-in and freshen up.
+---
 
-- **Afternoon:**
-  - Lunch at a local restaurant (try Nasi Goreng).
-  - Spend the afternoon at Seminyak Beach. Relax, sunbathe, and explore the beachfront bars.
+### **Day 1: Arrival in Bali and Beach Relaxation** 🌅
 
-- **Evening:**
-  - Dinner at Potato Head Beach Club – enjoy the sunset views.
-  - Optional: Visit a nearby night market for local delicacies.
+**Morning:**
+- **Arrival at Ngurah Rai International Airport**.
+- **Visa On Arrival**: Pay approximately $35 per person and ensure your passport has at least 6 months validity.
 
-**Day 2: Cultural Immersion - Uluwatu Temple & Kecak Dance**
-- **Morning:**
-  - Breakfast at the hotel.
-  - Visit Uluwatu Temple (entry fee: approx. $1) – explore the temple and enjoy ocean views.
+**Afternoon:**
+- **Check-in** at your mid-range hotel in Kuta ($70/night).
+- **Lunch** at a local warung (small restaurant) – budget $10.
+- **Kuta Beach**: Spend the afternoon sunbathing, swimming, and trying out surf lessons (approx. $20).
 
-- **Afternoon:**
-  - Lunch at a local warung near Uluwatu (try Babi Guling).
-  - Relax at Padang Padang Beach for swimming or sunbathing.
+**Evening:**
+- Dinner at a beachfront restaurant in Kuta – budget $40 for two.
+- Enjoy the sunset and vibrant nightlife.
 
-- **Evening:**
-  - Return to Uluwatu Temple for the Kecak dance performance (approx. $10).
-  - Dinner at a beachfront restaurant in Jimbaran (seafood recommended).
+---
 
-**Day 3: Temple Tours - Tirta Empul & Tanah Lot**
-- **Morning:**
-  - Early breakfast and head to Tirta Empul Temple (entry fee: approx. $2).
-  - Participate in the purification ritual and explore the temple grounds.
+### **Day 2: Temples and Cultural Experiences** 🕌
 
-- **Afternoon:**
-  - Enjoy lunch at a nearby café.
-  - Visit Tanah Lot Temple (entry fee: approx. $3) – explore the temple and enjoy the views.
+**Morning:**
+- **Breakfast** at the hotel (included).
+- **Uluwatu Temple**: Depart by 9 AM to explore the temple and its surroundings. Entry fee: approximately $3 per person.
 
-- **Evening:**
-  - Dinner at a local restaurant near Tanah Lot. Sample traditional Balinese dishes.
-  - Return to the hotel.
+**Afternoon:**
+- **Lunch** at a local café near Uluwatu – budget $20.
+- **Kecak Dance Performance** at Uluwatu Temple at sunset (entry included in the temple fee).
 
-**Day 4: Nature & Relaxation - Jatiluwih Rice Terraces & Nusa Dua**
-- **Morning:**
-  - Breakfast at the hotel.
-  - Visit Jatiluwih Rice Terraces (approx. $5 entry) – take a leisurely walk and enjoy the views.
+**Evening:**
+- Dinner in Jimbaran Bay, known for its seafood dining experience – budget $60 for two.
+- Return to the hotel.
 
-- **Afternoon:**
-  - Lunch at a local eatery in Jatiluwih.
-  - Head to Nusa Dua Beach for relaxation and water sports (jet skiing/snorkeling).
+---
 
-- **Evening:**
-  - Dinner at a beachfront restaurant in Nusa Dua.
-  - Return to the hotel and enjoy some leisure time.
+### **Day 3: Scenic Beauty and Local Cuisine** 🌾
 
-**Day 5: Canggu Street Food & Departure**
-- **Morning:**
-  - Breakfast at the hotel, check out, and transfer to Canggu.
-  - Explore the Canggu street food scene. Try local dishes and enjoy fresh juices.
+**Morning:**
+- **Breakfast** at the hotel.
+- Visit **Tegallalang Rice Terraces**: Depart around 9 AM. Explore and take photos (entry free; local snacks available).
 
-- **Afternoon:**
-  - Last-minute shopping for souvenirs.
-  - Relax at Echo Beach for some sunbathing or swimming.
+**Afternoon:**
+- **Lunch** at a nearby café – budget $20.
+- **Bali Swing**: Experience swinging over the jungle (approx. $30 per person).
 
-- **Evening:**
-  - Early dinner at a local café.
-  - Transfer to the airport for your departure flight.
+**Evening:**
+- **Dinner** at the Bali Night Market (Pasar Malam) for local street food – budget $20 for two.
+- Return to the hotel.
 
-**Budget Summary:**
-- **Flights:** $1,600 (for 2)
-- **Accommodation:** $350 (for 5 nights)
-- **Food:** $300 (for 5 days)
-- **Activities:** $500 (approx. $100 per day)
-- **Extras:** $175 (transportation, souvenirs)
-- **Total Estimated Cost:** **$2,925**
+---
 
-**Documentation Requirements:**
-- Valid passport (6 months validity).
-- Visa on Arrival (approx. $35).
-- Return ticket.
-- Sufficient funds (recommended $1,000).
+### **Day 4: Explore More Temples and Beaches** 🌊
 
-**Travel Insurance:** Highly recommended.
+**Morning:**
+- **Breakfast** at the hotel.
+- **Tanah Lot Temple**: Visit by 10 AM. Enjoy the stunning views and explore the area (entry fee: approximately $3 per person).       
 
-This structured itinerary balances cultural experiences, relaxation on beautiful beaches, and delectable street food, ensuring a fulfilling visit to Bali. Enjoy your adventure!
+**Afternoon:**
+- **Lunch** at a local restaurant nearby – budget $20.
+- Relax at **Seminyak Beach**: Spend your afternoon unwinding at one of the upscale beach clubs.
+
+**Evening:**
+- **Dinner** at a beach club in Seminyak – budget $60.
+- Enjoy the vibrant atmosphere and live music.
+
+---
+
+### **Day 5: Departure and Last-minute Shopping** 🛍️
+
+**Morning:**
+- **Breakfast** at the hotel and check-out.
+- **Besakih Temple**: Early morning visit to the “Mother Temple” (entry fee: approx. $2 per person).
+
+**Afternoon:**
+- **Lunch** at a local eatery near Besakih – budget $20.
+- **Last-minute shopping** at local markets for souvenirs. Budget $50.
+
+**Evening:**
+- Return to the hotel to collect luggage and head to the airport.
+- **Departure**: Ensure to arrive 2-3 hours before your flight.
+
+---
+
+### **Budget Summary** 💰
+
+- **Flights**: $1,600
+- **Accommodation**: $350
+- **Food**: $300
+- **Activities**: $500
+- **Extras**: $200
+
+**Total Estimated Cost**: **$2,950**
+
+---
+
+### **Top Attractions in Bali** 🌟
+
+1. **Kuta Beach**: Vibrant beach for sunbathing and surfing.
+2. **Uluwatu Temple**: Cliff-side temple with stunning ocean views.
+3. **Seminyak Beach**: Relaxed beach with upscale dining.
+4. **Tanah Lot Temple**: Iconic sunset spot.
+5. **Jimbaran Bay**: Seafood dining experience on the beach.
+6. **Tegallalang Rice Terraces**: Beautiful landscapes and local snacks.
+7. **Bali Night Market**: Authentic street food experience.
+8. **Besakih Temple**: Largest temple complex in Bali.
+9. **Nusa Dua Beach**: Luxurious beach with clear waters.
+10. **Bali Swing**: Thrilling swing experience over lush scenery.
+
+---
+
+### **Documentation Requirements** 📄
+
+1. **Visa**: Visa on Arrival (VoA) is required for tourism, valid for 30 days.
+2. **Passport**: Must have 6 months validity from the date of entry.
+3. **Travel Insurance**: Highly recommended for unforeseen circumstances.
+4. **Vaccinations**: No specific requirements, but routine vaccinations are advisable.
+
+---
+
+Enjoy your trip to Bali! It promises beautiful beaches, rich culture, and delicious food. 🌺🌊
