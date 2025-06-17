@@ -33,10 +33,12 @@ This project uses **CrewAI**, **Azure OpenAI**, and **LangChain** to create a sm
 
 ---
 
-📄 License
+📄 **License**  
 This project is licensed under the MIT License.
 
----------🙋‍♀️ Author---------
-Marpally Latha Devi,
-Prompt Engineer | Generative AI Developer,
-GitHub: lathadevi158
+---
+
+🙋‍♀️ **Author**  
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+GitHub: [lathadevi158](https://github.com/lathadevi158)
